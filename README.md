@@ -1,1 +1,1 @@
-Here you can find the algorithm of Variationnal AutoEncoder Bayes using theory and the reparametrization trick. You will also find interesting books in the same field or in the field similar to the Generative models
+Here you can find the algorithm of Variationnal AutoEncoder Bayesian using theory and the reparametrization trick. You will also find interesting books in the same field or in the field similar to the Generative models
